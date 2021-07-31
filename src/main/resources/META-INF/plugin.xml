@@ -1,6 +1,6 @@
 <idea-plugin>
     <id>com.github.tbnilles.intellijpluginjstools</id>
-    <name>intellij-plugin-js-tools</name>
+    <name>JSTools</name>
     <vendor>tbnilles</vendor>
 
     <!-- Product and plugin compatibility requirements -->
